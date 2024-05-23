@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slaider/static/css/main.7acaea2f.css",
+    "main.js": "/slaider/static/js/main.2281348e.js",
+    "index.html": "/slaider/index.html",
+    "main.7acaea2f.css.map": "/slaider/static/css/main.7acaea2f.css.map",
+    "main.2281348e.js.map": "/slaider/static/js/main.2281348e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.2281348e.js"
+  ]
+}
